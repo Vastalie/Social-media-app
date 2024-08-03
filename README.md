@@ -1,2 +1,4 @@
-# Social-media-app
-This is a social media app for Goldsmith's students 
+# GoldPlus
+A social media page for students
+
+for getting started on the project, see `NuxtREADME.md`

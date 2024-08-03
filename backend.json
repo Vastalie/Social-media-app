@@ -1,0 +1,220 @@
+{
+  "community": [ 
+    {
+      "name": "comp sci",
+      "username": "compsci",
+      "desc": "Computer science is the study of computation, information, and automation.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "creative computing",
+      "username": "creativeComputing",
+      "desc": "Whether you’re interested in creative coding, digital art, electronic music, or app and games development, this degree will prepare y..",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "art",
+      "username": "art",
+      "desc": "Art is an ecpression",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "music",
+      "username": "music",
+      "desc": "Music is the art of arranging sounds in time to form a composition.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "business computing",
+      "username": "businessComputing",
+      "desc": "Business computing is the study of computing in business.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "games programming",
+      "username": "gamesProgramming",
+      "desc": " Games programming analyzes and develops the fundamental elements of computer games, such as game design, game art, game logic and game development.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "anthropology",
+      "username": "anthropology",
+      "desc": "Anthropology is the study of human life and behavior.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },      
+    {
+      "name": "design",
+      "username": "design",
+      "desc": "Design is the art of problem solving.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "english and creative writing",
+      "username": "englishAndCreativeWriting",
+      "desc": "English and creative writing is the art of writing.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "media & english",
+      "username": "media&English",
+      "desc": "English and creative writing is the art of writing.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "digital arts computing",
+      "username": "digitalArts",
+      "desc": "creating rtistic work that uses technology as part of the creation process. Can also refer to computational art that uses and engages with digital media.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    },
+    {
+      "name": "anine & games society",
+      "username": "animeGames",
+      "desc": "drop by the Anime & Games Society to meet others that enjoy anime or games. Event nights on Tuesdays.",
+      "posts": [],
+      "chat": [
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        },
+        {
+          "userURL": "....",
+          "content": "....",
+          "userID": "...."
+        }
+      ]
+    }
+  ]
+}
